@@ -1,8 +1,8 @@
 # Política de Privacidade do Mently
 
-Última atualização: 25 de outubro de 2024
+Última atualização: 01 de novembro de 2024
 
-O Mently ("nós", "nosso" ou "conosco") respeita a privacidade dos usuários ("usuário" ou "você") do nosso aplicativo Mently e está comprometida em proteger as informações pessoais que você compartilha conosco no uso do nosso aplicativo. Esta Política de Privacidade explica como coletamos, usamos, divulgamos e protegemos suas informações.
+O Mently ("nós", "nosso" ou "conosco") respeita a privacidade dos usuários ("usuário" ou "você") do nosso aplicativo Mently e está comprometido em proteger as informações pessoais que você compartilha conosco no uso do nosso aplicativo. Esta Política de Privacidade explica como coletamos, usamos, divulgamos e protegemos suas informações.
 
 # 1\. Sobre o Mently
 
@@ -14,7 +14,7 @@ O Mently ainda é uma aplicação em estágio de testes. Não a utilize se você
 
 Os dados que coletamos podem ser advindos das seguintes fontes:
 
-* **Softwares desenvolvidos pelo Mently**, incluindo, mas não limitado a: nossos aplicativos para dispositivos móveis, nossos programas para computadores desktop e para a web e a partir de nosso site.
+* **Softwares desenvolvidos pelo Mently**, incluindo, mas não limitado a: nossos aplicativos para dispositivos móveis, nossos programas para computadores desktop, para a web e a partir de nosso site.
 * **Canais de comunicação e suporte**, incluindo, mas não limitado a e-mails com nossa equipe, comentários nas lojas de aplicativos, atendimento direto com nossa equipe por aplicativos de mensagem ou de redes sociais e eventuais outros meios de comunicação.
 
 ## 2.2. Informações que Você Fornece
@@ -65,8 +65,8 @@ Podemos compartilhar suas informações com terceiros nas seguintes circunstânc
 
 * **Fornecedores de serviços**: Que nos ajudam a operar o aplicativo, sob contratos que garantem a proteção de seus dados.
   * Atualmente, utilizamos os seguintes provedores externos:
-    * **Google Firebase**: Utilizado para o envio de notificações, monitoramento de métricas de notificações, e comunicações importantes entre a Mently e seus usuários.
-    * **Sentry**: Utilizado para a coleta de informações sobre a performance, erros e detalhes de segurança do Mently no aparelho do usuário. Isto tem por finalidade permitir com que nós possamos melhorar a Mently, monitorar incidentes de segurança e melhorar os nossos serviços.
+    * **Google Firebase**: Utilizado para o envio de notificações, monitoramento de métricas de notificações, e comunicações importantes entre o Mently e seus usuários.
+    * **Sentry**: Utilizado para a coleta de informações sobre a performance, erros e detalhes de segurança do Mently no aparelho do usuário. Isto tem por finalidade permitir com que nós possamos melhorar o Mently, monitorar incidentes de segurança e melhorar os nossos serviços.
 * **Autoridades legais**: Se acreditarmos que é necessário para cumprir uma obrigação legal.
 * **Parte sucessora**: No caso de fusão, aquisição ou venda de todos ou parte dos nossos ativos.
 
@@ -77,11 +77,11 @@ Além disso, o Mently oferece ao usuário a possibilidade de compartilhar suas i
 
 # 6\. Transferências Internacionais de Dados
 
-Os dados coletados podem ser transferidos para, armazenados e processados em servidores localizados nos Estados Unidos da América. Ao usar nosso aplicativo e fornecer suas informações pessoais, você concorda com a transferência internacional de dados para os Estados Unidos da América.
+Os dados coletados podem ser transferidos, armazenados e processados em servidores localizados nos Estados Unidos da América. Ao usar nosso aplicativo e fornecer suas informações pessoais, você concorda com a transferência internacional de dados para os Estados Unidos da América.
 
 Implementamos medidas adequadas para garantir que seus dados pessoais sejam tratados com segurança e de acordo com esta política de privacidade, independentemente de onde estejam localizados.
 
-Para tal, utilizamos certificados de segurança para validar a comunicação com os servidores, visando o sigilo da comunicação entre o usuário e a Mently.
+Para tal, utilizamos certificados de segurança para validar a comunicação com os servidores, visando o sigilo da comunicação entre o usuário e o Mently.
 
 # 7\. Retenção de Dados
 
@@ -91,7 +91,7 @@ Quanto aos dados que ja não estão mais em nossa posse, como os dados que você
 
 # 8\. Segurança de Dados
 
-Implementamos medidas técnicas e organizacionais para proteger suas informações contra acesso não autorizado, alteração, divulgação ou destruição. Para os dados de entradas do diário, utilizamos criptografia de ponta-a-ponta, de modo que nem mesmo nós podemos observar seus conteúdos, visando à proteção e privacidade das informações médicas trocadas entre profissional e paciente. Todavia, não podemos nos resposabilizar pelos seguintes fatos:
+Implementamos medidas técnicas e organizacionais para proteger suas informações contra acesso não autorizado, alteração, divulgação ou destruição. Para os dados de entradas do diário, utilizamos criptografia de ponta-a-ponta, de modo que nem mesmo nós podemos observar seus conteúdos, visando à proteção e privacidade das informações médicas trocadas entre profissional e paciente. Todavia, não podemos nos responsabilizar pelos seguintes fatos:
 
 1. Equipamento infectado ou invadido por atacantes;
 2. Equipamento avariado no momento do consumo de serviços;
@@ -118,10 +118,10 @@ Mediante sua solicitação, iremos suspender o acesso aos seus dados que estiver
 
 Reservamo-nos o direito de alterar esta política a qualquer momento. Quaisquer alterações serão comunicadas a você através do aplicativo ou por e-mail e entrarão em vigor imediatamente após a publicação da política revisada.
 
-Solicitamos essa velocidade de transição de políticas por conta da fase de testes. Planejamos, contudo, que atualizações, em um momento futuro, sejam avisadas com alguma antecedência. Agradecemos a sua compreensão, e repetimos que é do seu direito, caso discorde desta abordagem, solicitar a desativação e exclusão de sua conta. A exclusão da sua conta é um evento terminante da sua relação com a Mently. Retemos informações sobre sua conta após isso apenas nos eventos extraordinários citados neste documento.
+Solicitamos essa velocidade de transição de políticas por conta da fase de testes. Planejamos, contudo, que atualizações, em um momento futuro, sejam avisadas com alguma antecedência. Agradecemos a sua compreensão, e repetimos que é do seu direito, caso discorde desta abordagem, solicitar a desativação e exclusão de sua conta. A exclusão da sua conta é um evento terminante da sua relação com o Mently. Retemos informações sobre sua conta após isso apenas nos eventos extraordinários citados neste documento.
 
 # 11\. Contato
 
 Se você tiver dúvidas ou preocupações sobre esta Política de Privacidade, por favor, entre em contato conosco através do suporte@mently.health.
 
-Reservamo-nos ao direito de entrar em contato com você através do e-mail utilizado em sua conta Mently para compartilhar informações relevantes sobre sua conta, enviar códigos de acesso necessários para sua segurança ou compartilhar novidades, avisos e informações sobre a Mently ou sua conta Mently, pedir seu feedback e/ou opinião, e quaisquer outros motivos relevantes, enquanto você possuir uma conta ativa conosco. O faremos através do nosso e-mail de suporte suporte@mently.health, ou através dos e-mails de nossos desenvolvedores (todos sob o domínio @mently.health).
+Reservamo-nos ao direito de entrar em contato com você através do e-mail utilizado em sua conta Mently para compartilhar informações relevantes sobre sua conta, enviar códigos de acesso necessários para sua segurança ou compartilhar novidades, avisos e informações sobre o Mently ou sua conta Mently, pedir seu feedback e/ou opinião, e quaisquer outros motivos relevantes, enquanto você possuir uma conta ativa conosco. O faremos através do nosso e-mail de suporte suporte@mently.health, ou através dos e-mails de nossos desenvolvedores (todos sob o domínio @mently.health).
