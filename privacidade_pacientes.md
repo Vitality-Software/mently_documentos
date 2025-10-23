@@ -1,6 +1,6 @@
 # Política de Privacidade do Vitaly
 
-Última atualização: 01 de novembro de 2024
+Última atualização: 22 de outubro de 2025
 
 O Vitaly ("nós", "nosso" ou "conosco") respeita a privacidade dos usuários ("usuário" ou "você") do nosso aplicativo Vitaly e está comprometido em proteger as informações pessoais que você compartilha conosco no uso do nosso aplicativo. Esta Política de Privacidade explica como coletamos, usamos, divulgamos e protegemos suas informações.
 
